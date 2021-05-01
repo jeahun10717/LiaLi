@@ -1,12 +1,12 @@
-# ♥ 2020.12.12. 내친소 계획 ♥
+# ♥ 2021.5.29. 내친소 계획 ♥
 
 ## 1. 숙소
 
-숙소 링크는 [여기](https://www.agoda.com/ko-kr/wayo/hotel/busan-kr.html?finalPriceView=0&isShowMobileAppPrice=false&cid=1719676&numberOfBedrooms=&familyMode=false&hotelSearchCriteria=[object%20Object]&isAgMse=false&ccallout=false&defdate=false&voucherMode=false&adults=6&children=0&rooms=1&maxRooms=9&checkIn=2020-12-12&childAges=&defaultChildAge=8&travellerType=2&los=1&searchrequestid=a17d22a2-09dd-4150-8804-072ed1c2e758)로!!
+숙소 링크는 [여기](https://www.agoda.com/ko-kr/orum-hotel/hotel/busan-kr.html?checkin=2021-05-29&checkout=2021-05-30&los=1&rooms=2&adults=4&children=0&cid=1811515&searchrequestid=3f386990-0d26-4cbb-ad99-61bbf406993c&tspTypes=1)로!!
 
 ### 1-1. 가격
 
-KRW 214,400
+KRW 164,423 / 8 = 20,553
 **이 예산은 모두 n 분의 1**
 
 ---
